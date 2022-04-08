@@ -1,0 +1,5 @@
+query emoji {
+  country(code: "BR") {
+    emoji
+  }
+}

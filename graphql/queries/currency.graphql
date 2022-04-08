@@ -1,0 +1,5 @@
+query currency {
+  country(code: "BR") {
+    currency
+  }
+}
